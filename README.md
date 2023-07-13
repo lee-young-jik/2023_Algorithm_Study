@@ -1,4 +1,4 @@
-# 2023_Algorithm_Study 
+# 2023_Algorithm_Study  
 
 <h2>기여자 (Contributors) ✨</h2>
 <table>
