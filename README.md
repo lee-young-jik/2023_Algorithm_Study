@@ -5,7 +5,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/lee-young-jik">
-        <img src="https://avatars.githubusercontent.com/u/37844020?v=4"width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
         <br />
         <sub>
           <b>Beomki Kim</b>
@@ -16,7 +16,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/SilverWithA">
-        <img src="https://avatars.githubusercontent.com/u/92441328?v=4"width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/71869717?v=4"width="100px;" alt=""/>
         <br />
         <sub>
           <b>silver a</b>
