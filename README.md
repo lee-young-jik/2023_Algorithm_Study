@@ -17,7 +17,7 @@
     <td align="center">
       <a href="https://github.com/SilverWithA">
         <img src="https://avatars.githubusercontent.com/u/71869717?v=4"width="100px;" alt=""/>
-        <br />
+        <br /> 
         <sub>
           <b>Eddy Lee</b>
         </sub>
