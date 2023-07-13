@@ -12,7 +12,7 @@
         </sub>
       </a>
       <br />
-      <a href="https://github.com/eeeeeddy" title="Code">🏠</a>
+      <a href="https://github.com/lee-young-jik" title="Code">🏠</a>
     </td>
     <td align="center">
       <a href="https://github.com/SilverWithA">
@@ -23,7 +23,7 @@
         </sub>
       </a>
       <br />
-      <a href="https://github.com/l" title="Code">🏠</a>
+      <a href="https://github.com/eeeeeddy" title="Code">🏠</a>
     </td>
    
 </table>
