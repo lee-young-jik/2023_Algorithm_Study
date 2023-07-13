@@ -8,7 +8,7 @@
         <img src="https://avatars.githubusercontent.com/u/91588673?v=4"width="100px;" alt=""/>
         <br />
         <sub>
-          <b>Beomki Kim</b>
+          <b>Lee Young Jik</b>
         </sub>
       </a>
       <br />
@@ -19,7 +19,7 @@
         <img src="https://avatars.githubusercontent.com/u/71869717?v=4"width="100px;" alt=""/>
         <br />
         <sub>
-          <b>silver a</b>
+          <b>Eddy Lee</b>
         </sub>
       </a>
       <br />
