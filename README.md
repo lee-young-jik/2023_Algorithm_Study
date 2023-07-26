@@ -17,3 +17,8 @@
    <tr/>
    
 </table>
+<hr/>
+
+<div align=center>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
